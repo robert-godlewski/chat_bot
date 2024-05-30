@@ -1,0 +1,6 @@
+{
+    "exit": "Ok, good bye",
+    "confused": ["Sorry, please elaborate...","Need Assistance? type 1","Other? type 2"],
+    "greeting": "How may I help you today?",
+    "1": "Getting someone to help you...(This option is not available, try again)"
+}
